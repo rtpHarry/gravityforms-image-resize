@@ -7,7 +7,7 @@ class GFImageResize extends GFAddOn {
     protected $_version = GF_IMAGE_RESIZE_VERSION;
     protected $_min_gravityforms_version = '1.9';
     protected $_slug = 'imageresize';
-    protected $_path = 'gravityforms-image-resize.imageresize.php';
+    protected $_path = 'gravityforms-image-resize/imageresize.php';
     protected $_full_path = __FILE__;
     protected $_title = 'Gravity Forms Image Resize';
     protected $_short_title = 'Image Resize';
